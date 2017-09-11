@@ -16,7 +16,7 @@ att träffa rätt.
 
 &ast;&ast; Kollisionsrisk förekommer som lägst inom rymden 63^10 per mikrosekund.
 
-# Exempel
+## Exempel
 
 Generera och verifiera ID:
 ```php
@@ -47,3 +47,6 @@ for ($i = 0; $i < 5; $i++) {
 // B1PglLbZ5TKSVtQ_lasxcdQHYU5Alcdq
 // D1PglLbrIupaBxreyFJXctDc1WkVmOOK
 ```
+
+## Licens
+Formator.js omfattas av licensformen [MIT](https://opensource.org/licenses/MIT "The MIT License"). Varsågod!
