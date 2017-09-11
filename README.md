@@ -14,7 +14,7 @@ Klass för att generera ID-strängar med tre inbyggda fördelar:
 men med en rymd på minst 63^10 per unikt ID är det i praktiken inte rimligt 
 att träffa rätt.
 
-&ast;&ast; Kollisionsrisk förekommer med som lägst inom rymden 63^10 per mikrosekund.
+&ast;&ast; Kollisionsrisk förekommer som lägst inom rymden 63^10 per mikrosekund.
 
 # Exempel
 
