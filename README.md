@@ -49,4 +49,4 @@ for ($i = 0; $i < 5; $i++) {
 ```
 
 ## Licens
-Formator.js omfattas av licensformen [MIT](https://opensource.org/licenses/MIT "The MIT License"). Varsågod!
+KeyID.php omfattas av licensformen [MIT](https://opensource.org/licenses/MIT "The MIT License"). Varsågod!
